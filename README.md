@@ -8,7 +8,7 @@ Our project is about Hostel Management Web application using Python tools(Python
   #
   The Class Diagram explains the Database Schema used during project creation.
   ## Class Diagram:-
-   ![Database Schema](C:\Users\hp\MumbaiHack\Coding-Otakus)
+   ![Database Schema](HOSTELLL (1)===.png)
    #
   ## Actors:-
   The actors include the following:
