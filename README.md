@@ -8,7 +8,7 @@ Our project is about Hostel Management Web application using Python tools(Python
   #
   The Class Diagram explains the Database Schema used during project creation.
   ## Class Diagram:-
-   <img src="" width="120" height="100">
+   <img src="https://github.com/aja512/Coding-Otakus/blob/master/HOSTELLL%20(1)%3D%3D%3D.png">
    #
   ## Actors:-
   The actors include the following:
@@ -54,20 +54,21 @@ Our project is about Hostel Management Web application using Python tools(Python
 2. Open Qt Designer and design intefaces like log in page,Menu,etc. ;just as shown below:
 #
 Login Page:
- 
+ <img src="https://github.com/aja512/Coding-Otakus/blob/master/login.JPG">
 Choose one option and Click on “GO”
 
 If you select “Add a Student”
- 
+ <img src="https://github.com/aja512/Coding-Otakus/blob/master/after%20login.JPG">
 Then click on “Submit”
 If you select “View a Student’s Details”
- 
+  <img src="https://github.com/aja512/Coding-Otakus/blob/master/stud%20added.JPG">
 You can edit information by clicking on “Edit”
-If you select “Visiter’s Entry”
- 
+<img src="https://github.com/aja512/Coding-Otakus/blob/master/view%20stud%20detail.JPG">
+If you select “Visitor’s Entry”
+  <img src="https://github.com/aja512/Coding-Otakus/blob/master/visiter's%20info.JPG">
 Then you can also add exit time on next
- 
+  <img src="https://github.com/aja512/Coding-Otakus/blob/master/visiter%20exit.JPG">
 If you select “Room Details” it will display  Details of student allocated in that room 
- 
+  <img src="https://github.com/aja512/Coding-Otakus/blob/master/room%20details.JPG">
  
 
