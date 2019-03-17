@@ -7,10 +7,12 @@ Our project is about Hostel Management Web application using Python tools(Python
   An hostel management application makes use of Object Oriented Analysis and Design.Minimal Code is written in the GUI and the entities are   decoupled as well. The interface is created using Qt Designer.This project was created during Mumbai Hacakathon 2019.
   #
   The Class Diagram explains the Database Schema used during project creation.
-  ## Class Diagram:-
-   <img src="https://github.com/aja512/Coding-Otakus/blob/master/HOSTELLL%20(1)%3D%3D%3D.png">
-   #
-  ## Actors:-
+#
+## Class Diagram:-
+  <img src="https://github.com/aja512/Coding-Otakus/blob/master/HOSTELLL%20(1)%3D%3D%3D.png">
+ #
+ 
+# Actors:-
   The actors include the following:
   #
     1.  Warden(Main Administrator)
