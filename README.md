@@ -10,7 +10,7 @@ Our project is about Hostel Management Web application using Python tools(Python
 #
 ## Class Diagram:-
   <img src="https://github.com/aja512/Coding-Otakus/blob/master/HOSTELLL%20(1)%3D%3D%3D.png">
- #
+ 
  
 # Actors:-
   The actors include the following:
